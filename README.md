@@ -1,2 +1,2 @@
 # climate-viz
-Follow along 
+Following along YouTube series: https://youtu.be/d5dUkO5lXds
